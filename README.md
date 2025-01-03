@@ -1,4 +1,5 @@
 # Hot Wallet Balance Checker
+![HotWallet](https://hotscan.org/hotscan-logo.3d5c28ca.png "HotWallet Logo")
 
 This script is designed to check the balance of multiple hot wallets using the [HotScan](https://hotscan.org) website. It leverages Selenium WebDriver to automate the process of navigating to each wallet's URL and extracting balance information.
 
